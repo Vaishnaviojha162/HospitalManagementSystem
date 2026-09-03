@@ -1,0 +1,19 @@
+# Compiled Java binaries & build artifacts
+**/target/
+*.class
+
+# OS metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# IDE / Editor settings
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
